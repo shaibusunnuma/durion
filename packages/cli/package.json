@@ -28,7 +28,7 @@
     "@durion/sdk": "^0.3.3",
     "@fastify/static": "^9.0.0",
     "@temporalio/client": "^1.15.0",
-    "commander": "^14.0.0",
+    "commander": "^15.0.0",
     "dotenv": "^17.3.1",
     "fastify": "^5.8.4",
     "get-port": "^7.2.0",
