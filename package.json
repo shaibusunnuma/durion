@@ -29,7 +29,7 @@
     "@durion/sdk": "*"
   },
   "devDependencies": {
-    "@changesets/cli": "^2.30.0",
+    "@changesets/cli": "^3.0.3",
     "@types/node": "^25.3.5",
     "@types/pg": "^8.18.0",
     "dotenv": "^17.3.1",
