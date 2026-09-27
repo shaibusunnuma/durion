@@ -28,11 +28,11 @@
   },
   "dependencies": {
     "@durion/sdk": "^0.3.2",
-    "pg": "^8.20.0"
+    "pg": "^8.23.0"
   },
   "devDependencies": {
     "@types/node": "^25.3.5",
-    "@types/pg": "^8.18.0",
+    "@types/pg": "^8.23.1",
     "typescript": "^5.9.3",
     "vitest": "^4.1.0"
   }
